@@ -5,7 +5,6 @@
   <groupId>com.microsoft.example</groupId>
   <artifactId>myshuttle</artifactId>
   <version>0.0.1</version>
-  <packaging>war</packaging>
   <repository>
    <id>jatinbhalla180056</id>
    <url>https://pkgs.dev.azure.com/jatinbhalla180056/_packaging/jatinbhalla180056/maven/v1</url>
@@ -16,6 +15,7 @@
      <enabled>true</enabled>
    </snapshots>
   </repository>
+  <packaging>war</packaging>
   <build>
   	<finalName>myshuttledev</finalName>
     <plugins>
