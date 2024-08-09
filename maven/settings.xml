@@ -2,7 +2,14 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
                       https://maven.apache.org/xsd/settings-1.0.0.xsd">
-  <servers>
+  <!-- <servers> -->
     <!-- paste maven package feed credentials section here !-->
+  <!-- </servers> -->
+  <servers>
+    <server>
+      <id>jatinbhalla180056</id>
+      <username>jatinbhalla180056</username>
+      <password>3Tt8Q~mZE8vbktGu.KhW2zL2xVHQxVtyLb0M.b5p</password>
+    </server>
   </servers>
 </settings>
