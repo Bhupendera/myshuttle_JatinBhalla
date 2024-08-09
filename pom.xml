@@ -6,6 +6,16 @@
   <artifactId>myshuttle</artifactId>
   <version>0.0.1</version>
   <packaging>war</packaging>
+  <repository>
+   <id>jatinbhalla180056</id>
+   <url>https://pkgs.dev.azure.com/jatinbhalla180056/_packaging/jatinbhalla180056/maven/v1</url>
+   <releases>
+     <enabled>true</enabled>
+   </releases>
+   <snapshots>
+     <enabled>true</enabled>
+   </snapshots>
+  </repository>
   <build>
   	<finalName>myshuttledev</finalName>
     <plugins>
