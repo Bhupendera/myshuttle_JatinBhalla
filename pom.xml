@@ -7,7 +7,7 @@
   <version>0.0.1</version>
   <repositories>
     <repository>
-      <id>jatinbhalla191991</id>
+      <id>test</id>
       <url>https://pkgs.dev.azure.com/jatinbhalla191991/_packaging/jatinbhalla191991/maven/v1</url>
       <releases>
         <enabled>true</enabled>
@@ -19,7 +19,7 @@
   </repositories>
   <distributionManagement>
     <repository>
-      <id>MavenDemo</id>
+      <id>test</id>
       <url>https://pkgs.dev.azure.com/jatinbhalla191991/_packaging/jatinbhalla191991/maven/v1</url>
       <releases>
         <enabled>true</enabled>
